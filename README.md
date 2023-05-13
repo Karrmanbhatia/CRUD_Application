@@ -4,12 +4,4 @@ A simple and basic CRUD application (Create, Read, Update, Delete) using Node.js
 
 create database test;
 
-use test;
-
-CREATE TABLE users (
-id int(11) NOT NULL auto_increment,
-name varchar(100) NOT NULL,
-age int(3) NOT NULL,
-email varchar(100) NOT NULL,
-PRIMARY KEY (id)
-);
+![image](https://github.com/Karrmanbhatia/CRUD_Application/assets/77549255/4be47394-fa4f-49fe-9bac-23acdbbff5a5)
