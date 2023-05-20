@@ -8,6 +8,11 @@ A simple and basic CRUD application (Create, Read, Update, Delete) using Node.js
 <br>
 #### The database is also updated<br>
 ![image](https://github.com/Karrmanbhatia/CRUD_Application/assets/77549255/55a59372-b92e-4145-b671-334446f20b4d)
+### Adding movie as a card <br>
+![image](https://github.com/Karrmanbhatia/CRUD_Application/assets/77549255/fb8d014b-e9e6-4544-a94b-91365dd6b38d)
+### Updating the reviews of harry potter movie
+![image](https://github.com/Karrmanbhatia/CRUD_Application/assets/77549255/f5dc0466-ae88-4eab-94ac-ae3f311e62da)
+
 
 
 <!-- 
